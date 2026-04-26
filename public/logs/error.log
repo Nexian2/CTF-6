@@ -1,0 +1,4 @@
+[15/Oct/2024 08:00:01] [NOTICE] Server started — CorpNet Portal v2.4
+[15/Oct/2024 09:45:12] [ERROR] ENOENT: no such file or directory '/logs/debug.log'
+[15/Oct/2024 10:00:00] [NOTICE] Scheduled maintenance window started
+[15/Oct/2024 11:30:44] [WARN]  Unusual login attempt detected from 10.0.0.5
